@@ -1,0 +1,36 @@
+*{padding: 0;margin: 10% auto}
+.love02{
+    position  : relative;
+    width     : 100px;
+    height    : 100px;
+    transition: all 2s;
+}
+.love01{
+    position  : absolute;
+    width     : 100px;
+    height    : 100px;
+    background: rgb(180, 13, 13);
+    transform : rotate(45deg);
+}
+.love01::after{
+    position     : absolute;
+    content      : "";
+    width        : 100px;
+    height       : 100px;
+    background   : rgb(180, 13, 13);
+    border-radius: 50%;
+    right        : 45px;
+}
+.love01::before{
+    content      : "";
+    position     : absolute;
+    width        : 100px;
+    height       : 100px;
+    border-radius: 50%;
+    background   : rgb(180, 13, 13)0;
+    top          : -44px;
+}
+.love02:hover{
+    transform : scale(1.5);
+    transition: all 1s;
+}
