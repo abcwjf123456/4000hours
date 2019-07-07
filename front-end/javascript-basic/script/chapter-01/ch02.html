@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script>
+    var scope='全局变量';//虽然在全局作用域下可以不用var声明变量，但局部声明时一定要使用var语句
+    function checkscope(){
+        var scope='局部变量';
+        alert(scope);
+    };
+    checkscope();//局部变量优先级高于全局变量
+    </script>
+    <title>ch02</title>
+</head>
+<body>
+    
+</body>
+</html>
