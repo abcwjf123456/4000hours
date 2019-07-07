@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>对象类型</title>
+    <script>
+    person=new Object();
+    person.firstname='bill';
+    person.lastname='hihihi';
+    person.age=22;
+    console.log('这个人的年龄'+person.age);
+    var person02={
+        firstname:'ftg',
+        lastname:'ffg',
+        age:'22',
+        fullName:function(){
+            return this.firstname;
+        }
+    };
+    console.log(person02.age);
+    console.log(person02.fullName());
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
