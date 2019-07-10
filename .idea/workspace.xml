@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="837c18eb-04f7-43ff-8d7a-8df7bdf417ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/The-first-chapter/foundation/character-string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/The-first-chapter/foundation/digital.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/The-first-chapter/foundation/python保留关键字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/The-first-chapter/foundation/第一章笔记" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/The-first-chapter/thorough/ds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-2/ch2-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-2/ch2-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-2/ch2-03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-2/ch2-04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-2/ch2-05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-2/ch2-06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-2/第二章笔记" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/The-first-chapter/variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/The-first-chapter/foundation/variable.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,11 +21,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/4000hours$ch2_05.coverage" NAME="ch2-05 Coverage Results" MODIFIED="1562747938037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-2" />
     <SUITE FILE_PATH="coverage/4000hours$python.coverage" NAME="python保留关键字 Coverage Results" MODIFIED="1562246386862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/The-first-chapter" />
     <SUITE FILE_PATH="coverage/4000hours$character_string.coverage" NAME="character-string Coverage Results" MODIFIED="1562244611009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/The-first-chapter" />
+    <SUITE FILE_PATH="coverage/4000hours$ch2_01.coverage" NAME="ch2-01 Coverage Results" MODIFIED="1562595334034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-2" />
+    <SUITE FILE_PATH="coverage/4000hours$ch2_03.coverage" NAME="ch2-03 Coverage Results" MODIFIED="1562746394599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-2" />
     <SUITE FILE_PATH="coverage/4000hours$variable.coverage" NAME="variable Coverage Results" MODIFIED="1562164063265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/The-first-chapter" />
     <SUITE FILE_PATH="coverage/4000hours$digital.coverage" NAME="digital Coverage Results" MODIFIED="1562247390951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/The-first-chapter" />
-    <SUITE FILE_PATH="coverage/4000hours$ds.coverage" NAME="ds Coverage Results" MODIFIED="1562248852318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/The-first-chapter/thorough" />
+    <SUITE FILE_PATH="coverage/4000hours$ch2_06.coverage" NAME="ch2-06 Coverage Results" MODIFIED="1562748346920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-2" />
+    <SUITE FILE_PATH="coverage/4000hours$ch2_04.coverage" NAME="ch2-04 Coverage Results" MODIFIED="1562747292727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-2" />
+    <SUITE FILE_PATH="coverage/4000hours$ds.coverage" NAME="ds Coverage Results" MODIFIED="1562594259699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/The-first-chapter/thorough" />
+    <SUITE FILE_PATH="coverage/4000hours$ch2_02.coverage" NAME="ch2-02 Coverage Results" MODIFIED="1562597124923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-2" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -45,16 +51,16 @@
     <session id="-58749884">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.29" value="1" />
-          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.29" value="2" />
+          <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -63,16 +69,17 @@
           <entry key="html" value="3" />
           <entry key="js" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="9" />
+          <entry key="py" value="25" />
           <entry key="第一章笔记" value="2" />
+          <entry key="第二章笔记" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="3" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="9" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="25" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
@@ -80,15 +87,16 @@
         <counts>
           <entry key="html" value="70" />
           <entry key="md" value="15" />
-          <entry key="py" value="1683" />
+          <entry key="py" value="2868" />
           <entry key="txt" value="2" />
+          <entry key="第二章笔记" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="70" />
-          <entry key="PLAIN_TEXT" value="17" />
-          <entry key="Python" value="1683" />
+          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="Python" value="2868" />
         </counts>
       </usages-collector>
     </session>
@@ -119,6 +127,13 @@
         <option value="$PROJECT_DIR$/python/The-first-chapter/第一章笔记" />
         <option value="$PROJECT_DIR$/python/The-first-chapter/digital.py" />
         <option value="$PROJECT_DIR$/python/The-first-chapter/thorough/ds.py" />
+        <option value="$PROJECT_DIR$/python/chapter-2/ch2-01.py" />
+        <option value="$PROJECT_DIR$/python/chapter-2/ch2-02.py" />
+        <option value="$PROJECT_DIR$/python/chapter-2/ch2-03.py" />
+        <option value="$PROJECT_DIR$/python/chapter-2/ch2-04.py" />
+        <option value="$PROJECT_DIR$/python/chapter-2/第二章笔记" />
+        <option value="$PROJECT_DIR$/python/chapter-2/ch2-05.py" />
+        <option value="$PROJECT_DIR$/python/chapter-2/ch2-06.py" />
       </list>
     </option>
   </component>
@@ -141,7 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,10 +163,22 @@
               <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
               <item name="4000hours" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4000hours" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4000hours" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter-2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -180,8 +206,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ds">
-    <configuration name="character-string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ch2-06">
+    <configuration name="ch2-02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="4000hours" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,12 +215,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/The-first-chapter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\4000hours\python\The-first-chapter\foundation\character-string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-2/ch2-02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="digital" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ch2-03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="4000hours" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,12 +237,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/The-first-chapter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\4000hours\python\The-first-chapter\foundation\digital.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-2/ch2-03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ds" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ch2-04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="4000hours" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,12 +259,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/The-first-chapter/thorough" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/The-first-chapter/thorough/ds.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-2/ch2-04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python保留关键字" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ch2-05" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="4000hours" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,12 +281,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/The-first-chapter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\4000hours\python\The-first-chapter\foundation\python保留关键字.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-2/ch2-05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,7 +295,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="variable" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ch2-06" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="4000hours" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,12 +303,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/The-first-chapter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\4000hours\python\The-first-chapter\foundation\variable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-2/ch2-06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,19 +318,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.variable" />
-      <item itemvalue="Python.character-string" />
-      <item itemvalue="Python.digital" />
-      <item itemvalue="Python.python保留关键字" />
-      <item itemvalue="Python.ds" />
+      <item itemvalue="Python.ch2-02" />
+      <item itemvalue="Python.ch2-03" />
+      <item itemvalue="Python.ch2-04" />
+      <item itemvalue="Python.ch2-05" />
+      <item itemvalue="Python.ch2-06" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ds" />
-        <item itemvalue="Python.digital" />
-        <item itemvalue="Python.python保留关键字" />
-        <item itemvalue="Python.character-string" />
-        <item itemvalue="Python.variable" />
+        <item itemvalue="Python.ch2-06" />
+        <item itemvalue="Python.ch2-05" />
+        <item itemvalue="Python.ch2-04" />
+        <item itemvalue="Python.ch2-03" />
+        <item itemvalue="Python.ch2-02" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +371,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2730711" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -358,7 +384,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" visible="true" weight="0.32973805" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.32923076" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -435,6 +461,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="50" column="65" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-2/第二章笔记">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
