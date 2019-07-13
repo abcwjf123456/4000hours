@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="837c18eb-04f7-43ff-8d7a-8df7bdf417ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/chapter-2/ch2-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-2/ch2-02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-2/ch2-03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-2/ch2-04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-2/ch2-05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-2/ch2-06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-2/第二章笔记" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/4000hours.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/4000hours.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,19 +14,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/4000hours$ch2_05.coverage" NAME="ch2-05 Coverage Results" MODIFIED="1562747938037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-2" />
-    <SUITE FILE_PATH="coverage/4000hours$python.coverage" NAME="python保留关键字 Coverage Results" MODIFIED="1562246386862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/The-first-chapter" />
-    <SUITE FILE_PATH="coverage/4000hours$character_string.coverage" NAME="character-string Coverage Results" MODIFIED="1562244611009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/The-first-chapter" />
-    <SUITE FILE_PATH="coverage/4000hours$ch2_01.coverage" NAME="ch2-01 Coverage Results" MODIFIED="1562595334034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-2" />
-    <SUITE FILE_PATH="coverage/4000hours$ch2_03.coverage" NAME="ch2-03 Coverage Results" MODIFIED="1562746394599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-2" />
-    <SUITE FILE_PATH="coverage/4000hours$variable.coverage" NAME="variable Coverage Results" MODIFIED="1562164063265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/The-first-chapter" />
-    <SUITE FILE_PATH="coverage/4000hours$digital.coverage" NAME="digital Coverage Results" MODIFIED="1562247390951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/The-first-chapter" />
-    <SUITE FILE_PATH="coverage/4000hours$ch2_06.coverage" NAME="ch2-06 Coverage Results" MODIFIED="1562748346920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-2" />
-    <SUITE FILE_PATH="coverage/4000hours$ch2_04.coverage" NAME="ch2-04 Coverage Results" MODIFIED="1562747292727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-2" />
-    <SUITE FILE_PATH="coverage/4000hours$ds.coverage" NAME="ds Coverage Results" MODIFIED="1562594259699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/The-first-chapter/thorough" />
-    <SUITE FILE_PATH="coverage/4000hours$ch2_02.coverage" NAME="ch2-02 Coverage Results" MODIFIED="1562597124923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-2" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -47,72 +29,35 @@
     <expand />
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-58749884">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.23" value="2" />
-          <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.29" value="2" />
-          <entry key="project.open.time.34" value="2" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="groovy" value="1" />
-          <entry key="html" value="3" />
-          <entry key="js" value="1" />
-          <entry key="md" value="2" />
-          <entry key="py" value="25" />
-          <entry key="第一章笔记" value="2" />
-          <entry key="第二章笔记" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="3" />
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="25" />
-          <entry key="Scratch" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="70" />
-          <entry key="md" value="15" />
-          <entry key="py" value="2868" />
-          <entry key="txt" value="2" />
-          <entry key="第二章笔记" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="70" />
-          <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="2868" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python/chapter-3/ch3-01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>E:\4000hours\python\chapter-3</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -134,14 +79,11 @@
         <option value="$PROJECT_DIR$/python/chapter-2/第二章笔记" />
         <option value="$PROJECT_DIR$/python/chapter-2/ch2-05.py" />
         <option value="$PROJECT_DIR$/python/chapter-2/ch2-06.py" />
+        <option value="$PROJECT_DIR$/front-end/javascript-basic/ff.js" />
+        <option value="$PROJECT_DIR$/front-end/javascript-basic/script/chapter-01/ch01.html" />
+        <option value="$PROJECT_DIR$/python/chapter-3/ch3-01.py" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
@@ -172,7 +114,7 @@
               <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
               <item name="4000hours" type="462c0819:PsiDirectoryNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter-2" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter-3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -183,11 +125,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -206,49 +149,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ch2-06">
-    <configuration name="ch2-02" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="4000hours" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-2/ch2-02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ch2-03" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="4000hours" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-2/ch2-03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+  <component name="RunManager" selected="Python.ch3-01">
+    <configuration name="ff.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="ff.js" working-dir="$PROJECT_DIR$/front-end/javascript-basic">
       <method v="2" />
     </configuration>
     <configuration name="ch2-04" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -317,20 +219,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ch3-01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="4000hours" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-3/ch3-01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.ch2-02" />
-      <item itemvalue="Python.ch2-03" />
       <item itemvalue="Python.ch2-04" />
       <item itemvalue="Python.ch2-05" />
       <item itemvalue="Python.ch2-06" />
+      <item itemvalue="Python.ch3-01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ch2-06" />
-        <item itemvalue="Python.ch2-05" />
-        <item itemvalue="Python.ch2-04" />
-        <item itemvalue="Python.ch2-03" />
-        <item itemvalue="Python.ch2-02" />
+        <item itemvalue="Python.ch3-01" />
       </list>
     </recent_temporary>
   </component>
@@ -347,6 +266,9 @@
       <workItem from="1560837938809" duration="789000" />
       <workItem from="1560861715801" duration="242000" />
       <workItem from="1560862435941" duration="173000" />
+      <workItem from="1562832760532" duration="929000" />
+      <workItem from="1562996270775" duration="552000" />
+      <workItem from="1562997003321" duration="514000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1560839191392</created>
@@ -362,31 +284,54 @@
       <option name="project" value="LOCAL" />
       <updated>1560839272575</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新">
+      <created>1562996678778</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562996678778</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更新">
+      <created>1562997453253</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562997453253</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1204000" />
+    <option name="totallyTimeSpent" value="3199000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2730711" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2753404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.32973805" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32973805" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32973805" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50226927" side_tool="true" weight="0.32786885" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32973805" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -397,24 +342,24 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新" />
     <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/4000hours$ch3_01.coverage" NAME="ch3-01 Coverage Results" MODIFIED="1562997402709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-3" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -422,94 +367,35 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/JSON-Groovy.json.groovy" />
     <entry file="file://$PROJECT_DIR$/fir.html" />
     <entry file="file://$PROJECT_DIR$/fe.html" />
-    <entry file="file://$PROJECT_DIR$/python/The-first-chapter/foundation/python保留关键字.py">
+    <entry file="file://$PROJECT_DIR$/python/The-first-chapter/foundation/python保留关键字.py" />
+    <entry file="file://$PROJECT_DIR$/python/The-first-chapter/foundation/character-string.py" />
+    <entry file="file://$PROJECT_DIR$/python/The-first-chapter/foundation/variable.py" />
+    <entry file="file://$PROJECT_DIR$/python/The-first-chapter/foundation/digital.py" />
+    <entry file="file://$PROJECT_DIR$/python/The-first-chapter/foundation/第一章笔记" />
+    <entry file="file://$PROJECT_DIR$/python/The-first-chapter/thorough/ds.py" />
+    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-01.py" />
+    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-02.py" />
+    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-03.py" />
+    <entry file="file://$PROJECT_DIR$/python/chapter-2/第二章笔记" />
+    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-04.py" />
+    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-05.py" />
+    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-06.py" />
+    <entry file="file://$PROJECT_DIR$/front-end/javascript-basic/ff.js" />
+    <entry file="file://$PROJECT_DIR$/python/chapter-3/第三章笔记">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1230841543/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/front-end/javascript-basic/script/chapter-01/ch01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        <state relative-caret-position="240">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/The-first-chapter/foundation/character-string.py">
+    <entry file="file://$PROJECT_DIR$/python/chapter-3/ch3-01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1682">
-          <caret line="109" selection-start-line="109" selection-end-line="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/The-first-chapter/foundation/variable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/The-first-chapter/foundation/digital.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/The-first-chapter/foundation/第一章笔记">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-113">
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/The-first-chapter/thorough/ds.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="50" column="65" selection-start-line="50" selection-start-column="65" selection-end-line="50" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-2/第二章笔记">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-2/ch2-06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="60">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
