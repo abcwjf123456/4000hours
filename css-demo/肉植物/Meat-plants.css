@@ -1,0 +1,158 @@
+.box {
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+    width: 600px;
+    height: 600px;
+    background: #9ddadb;
+  }
+  
+  .pot {
+    width: 30%;
+    height: 32%;
+    background: pink;
+    border-radius: 5px 5px 85px 85px;
+    position: absolute;
+    bottom: 20%;
+    left: 33%;
+    z-index: 2;
+  }
+  
+  .shadow {
+    width: 25%;
+    height: 5%;
+    background: rgba(0, 0, 0, 0.25);
+    border-radius: 50%;
+    position: absolute;
+    bottom: 18.5%;
+    left: 35.75%;
+    z-index: 1;
+  }
+  
+  .leaf {
+    border-radius: 100px 0;
+    position: absolute;
+  }
+  
+  .leaf-1 {
+    height: 100px;
+    width: 100px;
+    background-color: #8aa53a; 
+    top: 40%;
+    left: 29%;
+    z-index: 3;
+    transform: rotate(10deg);
+  }
+  
+  .leaf-2 {
+    height: 80px;
+    width: 80px;
+    background-color: #496b38; 
+    top: 44%;
+    left: 37.5%;
+    z-index: 3;
+    transform: rotate(-27deg);
+  }
+  
+  .leaf-3 {
+    height: 90px;
+    width: 90px;
+    background-color: #8aa53a; 
+    top: 42%;
+    left: 46%;
+    z-index: 3;
+    transform: rotate(96deg);
+  }
+  
+  .leaf-4 {
+    height: 100px;
+    width: 100px;
+    background-color: #496b38; 
+    top: 37%;
+    left: 49%;
+    z-index: 4;
+    transform: rotate(-117deg);
+  }
+  
+  .leaf-5 {
+    height: 60px;
+    width: 60px;
+    background-color: #8aa53a; 
+    top: 33%;
+    left: 47%;
+    z-index: 3;
+    transform: rotate(9deg);
+  }
+  
+  .leaf-6 {
+    height: 100px;
+    width: 100px;
+    background-color: #496b38; 
+    top: 24%;
+    left: 44%;
+    z-index: 2;
+    transform: rotate(-15deg);
+  }
+  
+  .leaf-7 {
+    height: 90px;
+    width: 100px;
+    background-color: #70872f; 
+    top: 30%;
+    left: 47%;
+    z-index: 2;
+    transform: rotate(11deg);
+  }
+  
+  .leaf-8 {
+    height: 100px;
+    width: 100px;
+    background-color: #70872f; 
+    top: 24%;
+    left: 35%;
+    z-index: 2;
+    transform: rotate(-65deg);
+  }
+  
+  .leaf-9 {
+    height: 70px;
+    width: 70px;
+    background-color: #496b38; 
+    top: 30%;
+    left: 30%;
+    z-index: 1;
+    transform: rotate(75deg);
+  }
+  
+  .leaf-10 {
+    height: 90px;
+    width: 90px;
+    background-color: #8aa53a; 
+    top: 33%;
+    left: 29%;
+    z-index: 3;
+    transform: rotate(50deg);
+  }
+  
+  .leaf-11 {
+    height: 60px;
+    width: 50px;
+    background-color: #70872f; 
+    top: 38.5%;
+    left: 36.5%;
+    z-index: 4;
+    transform: rotate(-150deg);
+  }
+  
+  .leaf-12 {
+    height: 60px;
+    width: 50px;
+    background-color: #496b38; 
+    top: 37.5%;
+    left: 31.5%;
+    z-index: 2;
+    transform: rotate(-150deg);
+  }
+  
+  
