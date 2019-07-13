@@ -1,1 +1,2 @@
-magicians=['alice','david','carolina']
+magicians = ['alice', 'david', 'carolina']
+print(magicians)
