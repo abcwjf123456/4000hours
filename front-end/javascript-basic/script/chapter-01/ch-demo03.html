@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>读写</title>
+</head>
+<body>
+<input type="text" name="" id="tex" value="">
+<input type="button" value="走起" id="but">
+<div id="ig"></div>
+</body>
+</html>
+<script>
+    var oTex = document.getElementById('tex');
+    var oBut = document.getElementById('but');
+    var oIg = document.getElementById('ig');
+    oBut.onclick = function () {
+        // alert(oTex.value);//读
+        //将输入的字符赋给div
+        oIg.innerHTML = oTex.value;//写也可用innerText
+    };
+</script>

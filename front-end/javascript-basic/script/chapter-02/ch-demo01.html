@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>if语句</title>
+</head>
+<body>
+<input type="text" name="" id="tx" value="">
+<input type="button" value="走起" id="bt">
+<div id="dv"></div>
+</body>
+</html>
+<script>
+    var oTx = document.getElementById('tx');
+    var oBT = document.getElementById('bt');
+    var oDv = document.getElementById('dv');
+    var a = 1;
+    oBT.onclick = function () {
+        //限制次数
+        if (a > 4) {
+            a = 1;
+        }
+        //赋值
+        oTx.value = a + 'hhh';
+        a = a + 1;
+    };
+    //此案例可以转换成图片的轮播思路是相同的
+</script>

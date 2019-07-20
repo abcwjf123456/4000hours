@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>html属性操作</title>
+    <style type="text/css">
+        #box {
+            position: relative;
+            width: 100px;
+            height: 100px;
+            background-color: #DC2C00;
+            transition: 1s;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+<input type="button" value="按钮1" id="but01">
+<input type="button" value="按钮2" id="but02">
+<input type="button" value="按钮3" id="but03">
+<div id="box"></div>
+</body>
+</html>
+<script>
+    var bx = document.getElementById('box');
+    var bt01 = document.getElementById('but01');
+    var bt02 = document.getElementById('but02');
+    var bt03 = document.getElementById('but03');
+    bt01.onclick = function () {
+        bx.style.width = '200px';
+    };
+    bt02.onclick = function () {
+        bx.style.height = '200px';
+    };
+    bt03.onclick = function () {
+        bx.style.left = '100px';
+    };
+
+</script>
