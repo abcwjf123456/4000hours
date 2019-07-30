@@ -1,0 +1,4 @@
+1.border-width不支持百分比  
+2.border-style dotted在IE 7 8 下为圆所以在dotted可以搞点事情,double-三道杠图标（汉堡图标）
+3.background-position定位不会计算border区域
+4.border可模拟圆角效果可兼容IE 7 8

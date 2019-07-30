@@ -1,0 +1,5 @@
+1.在父元素不使用relative 下。子元素absolute 是相对于body 进行定位。top:0; left:0  位置就在浏览器左上角。    
+而在父元素使用relative 下。子元素就相对于父元素进行定位了。top:0;left:0; 位置就在父元素左上顶点。
+2.在父元素使用relative下子元素使用absolute会将子元素关进小黑屋限制定位，层级，overflow.
+3.只使用relative下是相对自身定位的.
+4.尽量不要使用relative因为会出现层叠bug，如果使用可以单独提取一个div.

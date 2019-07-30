@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>border模拟圆角效果</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        div {
+            box-sizing: border-box;
+        }
+
+        /* 利用border做出梯形，模拟圆角不懂请看理解图 */
+        /* 上梯形 */
+        .top {
+            height: 0;
+            border-top: 3px solid transparent;
+            border-bottom: 3px solid #111;
+            border-left: 3px solid transparent;
+            border-right: 3px solid transparent;
+        }
+
+        /* 下梯形 */
+
+
+        .bottom {
+            height: 0;
+            border-top: 3px solid #111;
+            border-bottom: 3px solid transparent;
+            border-left: 3px solid transparent;
+            border-right: 3px solid transparent;
+        }
+        /* 中间部分 */
+
+        .content {
+            color: #fff;
+            background-color: #111;
+        }
+
+        .wrapper {
+            width: 300px;
+            margin: 20% auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="top"></div>
+        <div class="content">
+            <p>利用border画出梯形，模拟圆角</p>
+        </div>
+        <div class="bottom"></div>
+    </div>
+</body>
+
+</html>
