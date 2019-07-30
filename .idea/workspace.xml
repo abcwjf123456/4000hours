@@ -1,55 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="837c18eb-04f7-43ff-8d7a-8df7bdf417ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/front-end/javascript-basic/script/chapter-02/ch-demo02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-4/ch4-02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-4/ch4-03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-4/ch4-04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-4/ch4-05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-4/ch4-06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-4/第四章笔记" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-5/ch5-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-5/ch5-02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-5/ch5-03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-5/ch5-04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-5/ch5-05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-5/ch5-06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-5/ch5-07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-5/ch5-08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-5/ch5-09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-5/ch5-10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-5/ch5-11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-5/ch5-12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-5/第五章笔记" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-6/ch6-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-6/ch6-02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-6/ch6-03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-6/ch6-04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-6/ch6-05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-6/ch6-06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-6/第六章笔记" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-7/ch7-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-7/ch7-02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-7/ch7-03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-7/ch7-04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-7/ch7-05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-7/ch7-06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-7/ch7-07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-7/ch7-08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-7/ch7-09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-7/ch7-10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-7/ch7-11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-7/ch7-12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-7/第七章笔记" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-8/ch8-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-8/第八章笔记" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/4000hours.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/4000hours.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/javascript-basic/script/chapter-02/第二章笔记" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/javascript-basic/script/chapter-02/第二章笔记" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/chapter-4/ch4-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/chapter-4/ch4-01.py" afterDir="false" />
-    </list>
+    <list default="true" id="837c18eb-04f7-43ff-8d7a-8df7bdf417ba" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -172,6 +124,11 @@
             <path>
               <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
               <item name="4000hours" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4000hours" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -378,7 +335,7 @@
       <workItem from="1563977870108" duration="5025000" />
       <workItem from="1564045524327" duration="3538000" />
       <workItem from="1564058588460" duration="7105000" />
-      <workItem from="1564218519626" duration="79000" />
+      <workItem from="1564218519626" duration="253000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1560839191392</created>
@@ -436,11 +393,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563610253921</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="27更新">
+      <created>1564218661592</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1564218661592</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84342000" />
+    <option name="totallyTimeSpent" value="84516000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -485,7 +449,8 @@
     <MESSAGE value="更新" />
     <MESSAGE value="13更新" />
     <MESSAGE value="20更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="20更新" />
+    <MESSAGE value="27更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="27更新" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/4000hours$ch7_01.coverage" NAME="ch7-01 Coverage Results" MODIFIED="1564045780346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-7" />
