@@ -23,3 +23,5 @@ def all(iterable):
 # 以下是 all() 方法的语法:
 #
 # all(iterable)
+# ascii不能编码中文
+
