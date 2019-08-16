@@ -1,1 +1,3 @@
 Compile
+$ git config --global user.name "abcwjf"
+$ git config --global user.email 236
