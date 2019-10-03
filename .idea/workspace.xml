@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="837c18eb-04f7-43ff-8d7a-8df7bdf417ba" name="Default Changelist" comment="9.29更新">
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-8/ch8-V-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/顺序结构与分离结构.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/顺序表两种基本实现方式.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/顺序表两种存储方式.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/顺序表两种存储结构.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/顺序表笔记.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/顺序表结构.jpg" afterDir="false" />
+    <list default="true" id="837c18eb-04f7-43ff-8d7a-8df7bdf417ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/list时间复杂度.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/python中的顺序表.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/元素存储区扩充.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/元素存储区替换.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/时间复杂度.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -36,9 +34,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python/chapter-V-8/ch8-V-01.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/元素存储区扩充.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/元素存储区替换.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/时间复杂度.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/list时间复杂度.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -146,6 +164,12 @@
               <item name="4000hours" type="462c0819:PsiDirectoryNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4000hours" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter-V-data-2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -171,6 +195,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\4000hours\python\chapter-V-data-2" />
       <recent name="E:\4000hours\python\chapter-V-5" />
       <recent name="E:\4000hours\css-demo" />
       <recent name="E:\4000hours\css-demo\Small-dinosaur" />
@@ -384,7 +409,7 @@
       <workItem from="1568887918445" duration="2693000" />
       <workItem from="1569117102900" duration="4780000" />
       <workItem from="1569741937722" duration="4317000" />
-      <workItem from="1570093838803" duration="230000" />
+      <workItem from="1570093838803" duration="1019000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1560839191392</created>
@@ -519,11 +544,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569747714116</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="10.3更新">
+      <created>1570094090966</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1570094090966</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183090000" />
+    <option name="totallyTimeSpent" value="184109000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -600,7 +632,8 @@
     <MESSAGE value="9.12更新" />
     <MESSAGE value="9.22更新" />
     <MESSAGE value="9.29更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.29更新" />
+    <MESSAGE value="10.3更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.3更新" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -716,33 +749,6 @@
     <SUITE FILE_PATH="coverage/4000hours$ch7_V_03.coverage" NAME="ch7-V-03 Coverage Results" MODIFIED="1569742780946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-7" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python/chapter-9/ch9-02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-9/第九章笔记">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-8/pii">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-8/piii">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-5/02filter函数笔记">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/chapter-V-5/04reduce函数笔记">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -997,6 +1003,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python/chapter-V-8/ch8-V-01.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/元素存储区扩充.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/元素存储区替换.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/python中的顺序表.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/list时间复杂度.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/时间复杂度.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">
