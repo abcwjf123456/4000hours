@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="837c18eb-04f7-43ff-8d7a-8df7bdf417ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/list时间复杂度.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/python中的顺序表.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/元素存储区扩充.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/元素存储区替换.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-2/时间复杂度.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-V-8/ch8-V-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-V-9/ch9-V-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-V-9/测试题" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-3/single_link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-V-data-3/链表" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/chapter-V-8/ch8-V-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/chapter-V-8/ch8-V-01.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,28 +36,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/chapter-V-8/ch8-V-01.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/元素存储区扩充.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/元素存储区替换.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/python/chapter-V-9/测试题">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="38" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/时间复杂度.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/list时间复杂度.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/python/chapter-V-9/ch9-V-01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -83,11 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python/chapter-V-data-1/ch1-V-data-01.py" />
-        <option value="$PROJECT_DIR$/python/chapter-V-data-1/ch1-V-data-02.py" />
-        <option value="$PROJECT_DIR$/python/chapter-V-data-1/第一章数据结构与算法" />
-        <option value="$PROJECT_DIR$/python/chapter-V-data-1/ch1-V-data-03.py" />
-        <option value="$PROJECT_DIR$/python/chapter-V-4/ch4-V-01.py" />
         <option value="$PROJECT_DIR$/python/chapter-V-5/ch5-V-01.py" />
         <option value="$PROJECT_DIR$/python/chapter-V-data-2/ch2-V-date-01.py" />
         <option value="$PROJECT_DIR$/python/chapter-V-data-2/map函数笔记" />
@@ -134,6 +123,11 @@
         <option value="$PROJECT_DIR$/python/chapter-V-7/ch7-V-03.py" />
         <option value="$PROJECT_DIR$/python/chapter-V-7/ch7-V-04.py" />
         <option value="$PROJECT_DIR$/python/chapter-V-8/ch-V-8-01.py" />
+        <option value="$PROJECT_DIR$/python/chapter-V-8/ch8-V-02.py" />
+        <option value="$PROJECT_DIR$/python/chapter-V-data-3/single_link.py" />
+        <option value="$PROJECT_DIR$/python/chapter-V-8/ch8-V-01.py" />
+        <option value="$PROJECT_DIR$/python/chapter-V-9/测试题" />
+        <option value="$PROJECT_DIR$/python/chapter-V-9/ch9-V-01.py" />
       </list>
     </option>
   </component>
@@ -148,32 +142,12 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
-              <item name="4000hours" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
-              <item name="4000hours" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
-              <item name="4000hours" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter-V-data-2" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,51 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ch7-V-04">
-    <configuration name="ch7-V-01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="4000hours" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-V-7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-V-7/ch7-V-01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ch7-V-02" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="4000hours" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-V-7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-V-7/ch7-V-02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ch9-V-01">
     <configuration name="ch7-V-03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="4000hours" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -303,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="drawing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ch8-V-01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="4000hours" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,12 +241,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-course-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-V-8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-course-1/drawing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-V-8/ch8-V-01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ch9-V-01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="4000hours" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-V-9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-V-9/ch9-V-01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="single_link" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="4000hours" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-V-data-3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-V-data-3/single_link.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ch9-V-01" />
+        <item itemvalue="Python.single_link" />
+        <item itemvalue="Python.ch8-V-01" />
         <item itemvalue="Python.ch7-V-04" />
         <item itemvalue="Python.ch7-V-03" />
-        <item itemvalue="Python.ch7-V-02" />
-        <item itemvalue="Python.ch7-V-01" />
-        <item itemvalue="Python.drawing" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +383,10 @@
       <workItem from="1568887918445" duration="2693000" />
       <workItem from="1569117102900" duration="4780000" />
       <workItem from="1569741937722" duration="4317000" />
-      <workItem from="1570093838803" duration="1019000" />
+      <workItem from="1570093838803" duration="1124000" />
+      <workItem from="1570154227772" duration="3516000" />
+      <workItem from="1570328463039" duration="5167000" />
+      <workItem from="1570439474797" duration="606000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1560839191392</created>
@@ -551,11 +528,18 @@
       <option name="project" value="LOCAL" />
       <updated>1570094090966</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="10.3更新">
+      <created>1570098027192</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1570098027192</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184109000" />
+    <option name="totallyTimeSpent" value="193503000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -569,7 +553,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29727685" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31089258" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -684,6 +668,7 @@
     <SUITE FILE_PATH="coverage/4000hours$ch7_12.coverage" NAME="ch7-12 Coverage Results" MODIFIED="1564065736276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-7" />
     <SUITE FILE_PATH="coverage/4000hours$ch8_06.coverage" NAME="ch8-06 Coverage Results" MODIFIED="1565518819143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-8" />
     <SUITE FILE_PATH="coverage/4000hours$ch6_03.coverage" NAME="ch6-03 Coverage Results" MODIFIED="1563978940874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-6" />
+    <SUITE FILE_PATH="coverage/4000hours$ch9_V_01.coverage" NAME="ch9-V-01 Coverage Results" MODIFIED="1570333567959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-9" />
     <SUITE FILE_PATH="coverage/4000hours$ch9_06.coverage" NAME="ch9-06 Coverage Results" MODIFIED="1564823266482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-9" />
     <SUITE FILE_PATH="coverage/4000hours$ch7_08.coverage" NAME="ch7-08 Coverage Results" MODIFIED="1564060983229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-7" />
     <SUITE FILE_PATH="coverage/4000hours$ch3_V_02.coverage" NAME="ch3-V-02 Coverage Results" MODIFIED="1564843690808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-3" />
@@ -703,6 +688,7 @@
     <SUITE FILE_PATH="coverage/4000hours$hellopyg.coverage" NAME="hellopyg Coverage Results" MODIFIED="1568784623230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-course-1" />
     <SUITE FILE_PATH="coverage/4000hours$ch5_V_08.coverage" NAME="ch5-V-08 Coverage Results" MODIFIED="1565192293761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-5" />
     <SUITE FILE_PATH="coverage/4000hours$ch5_09.coverage" NAME="ch5-09 Coverage Results" MODIFIED="1563873286267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-5" />
+    <SUITE FILE_PATH="coverage/4000hours$ch8_V_01.coverage" NAME="ch8-V-01 Coverage Results" MODIFIED="1570155764080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-8" />
     <SUITE FILE_PATH="coverage/4000hours$ch9_05.coverage" NAME="ch9-05 Coverage Results" MODIFIED="1564819770162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-9" />
     <SUITE FILE_PATH="coverage/4000hours$ch5_V_09.coverage" NAME="ch5-V-09 Coverage Results" MODIFIED="1565321609448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-5" />
     <SUITE FILE_PATH="coverage/4000hours$ch1_V_04.coverage" NAME="ch1-V-04 Coverage Results" MODIFIED="1564650006061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-1" />
@@ -732,6 +718,7 @@
     <SUITE FILE_PATH="coverage/4000hours$ch2_V_01.coverage" NAME="ch2-V-01 Coverage Results" MODIFIED="1564841756295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-2" />
     <SUITE FILE_PATH="coverage/4000hours$ch7_V_02.coverage" NAME="ch7-V-02 Coverage Results" MODIFIED="1569122126984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-7" />
     <SUITE FILE_PATH="coverage/4000hours$ch3_V_03.coverage" NAME="ch3-V-03 Coverage Results" MODIFIED="1564844424089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-3" />
+    <SUITE FILE_PATH="coverage/4000hours$single_link.coverage" NAME="single_link Coverage Results" MODIFIED="1570330358176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-data-3" />
     <SUITE FILE_PATH="coverage/4000hours$ch6_02.coverage" NAME="ch6-02 Coverage Results" MODIFIED="1563958946959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-6" />
     <SUITE FILE_PATH="coverage/4000hours$ch5_02.coverage" NAME="ch5-02 Coverage Results" MODIFIED="1563804840079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-5" />
     <SUITE FILE_PATH="coverage/4000hours$ch7_02.coverage" NAME="ch7-02 Coverage Results" MODIFIED="1564046062066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-7" />
@@ -749,48 +736,6 @@
     <SUITE FILE_PATH="coverage/4000hours$ch7_V_03.coverage" NAME="ch7-V-03 Coverage Results" MODIFIED="1569742780946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-7" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-5/04reduce函数笔记">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-5/ch5-V-04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-8/ch8-04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-8/ch8-02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-8/ch8-03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-8/ch8-05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/chapter-8/fi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -976,13 +921,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-7/ch7-V-04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/chapter-V-8/生产者消费者模型">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1001,15 +939,6 @@
     <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/顺序结构与分离结构.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-8/ch8-V-01.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/元素存储区扩充.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/元素存储区替换.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/python中的顺序表.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1018,6 +947,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/时间复杂度.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/元素存储区替换.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-data-2/元素存储区扩充.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-data-3/链表">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-287100998/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="4212" column="8" selection-start-line="4212" selection-start-column="8" selection-end-line="4212" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-7/ch7-V-04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-data-3/single_link.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-8/ch8-V-02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-8/ch8-V-01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-9/测试题">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-9/ch9-V-01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
