@@ -1,0 +1,263 @@
+/* -
+-*-~*~-*-*-~*~-*-*-~*~* |
+●▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬●
+Made by ~
+Areal Alien ❥ 雷克斯
+●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
+──────▄▀▄─────▄▀▄
+─────▄█░░▀▀▀▀▀░░█▄
+─▄▄──█░░░░░░░░░░░█──▄▄
+█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█
+-*-~*~-*-*-~*~-*-*-~*~* |
+- */
+$wheel: #41155a;
+$roof: #df615c;
+$roofLight: #edadac;
+$mill: #fff;
+
+body {
+  background-color: #eee;
+}
+
+.windmill {
+  position: absolute;
+  left: 40%;
+  top: 30%;
+}
+
+.hills {
+  width: 280px;
+  height: 180px;
+  background-color: $roofLight;
+  position: absolute;
+  top: 64px;
+  left: -110px;
+  opacity: 0.5;
+  border-radius: 300px 300px 0 0;
+  &:before, &:after {
+    content: '';
+    position: absolute;
+    background-color: $roofLight;
+    border-radius: 300px 300px 0 0;
+  }
+  &:before {
+    width: 250px;
+    height: 110px;
+    bottom: 0;
+    right: -120px;
+  }
+}
+
+.wheel {
+  z-index: 10;
+  width: 192px;
+  height: 192px;
+  position: absolute;
+  left: 8px;
+  top: 10px;
+ animation: spin 15s linear infinite;
+}
+
+.windwheel {
+  position: absolute;
+  width: 8px;
+  height: 100px;
+  background-color: $wheel;
+  margin-right: 10px;
+  left: 92px;
+  &:before {
+    positioN: absolute;
+    content: "";
+    background-color: $wheel;
+    opacity: 0.7;
+    width: 15px;
+    height: 75px;
+    left: 8px;
+  }
+}
+
+.windwheel2 {
+  transform: rotate(90deg);
+  top: 46px;
+  left: 138px;
+  z-index: 40;
+}
+
+.windwheel3 {
+  transform: rotate(180deg);
+  top: 92px;
+}
+
+.windwheel4 {
+  transform: rotate(-90deg);
+  top: 46px;
+  left: 46px;
+  &:after {
+    position: absolute;
+    content: "";
+    background-color: $wheel;
+    opacity: 0.7;
+    width: 22px;
+    height: 22px;
+    bottom: -7px;
+    left: -7px;
+    transform: rotate(45deg);
+  }
+}
+
+.roof {
+  position: absolute;
+  z-index: 9;
+  left: 52px;
+  top: 55px;
+  width: 0; 
+  height: 0; 
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 70px solid $roof;
+}
+
+.mill {
+  position: absolute;
+  left: 52px;
+  top: 124px;
+  width: 100px;
+  height: 120px;
+  background-color: $mill;
+  &:after {
+    position: absolute;
+    content: "";
+    background-color: $wheel;
+    height: 50px;
+    width: 40px;
+    bottom: 0;
+    left: 28px;
+    border-radius: 40% 40% 0 0;
+    border-left: 5px solid $roofLight;
+  }
+  &:before {
+    position: absolute;
+    content: "";
+    background-color: $wheel;
+    height: 40px;
+    width: 30px;
+    top: 20px;
+    left: 32px;
+    border-radius: 18px;
+    border-left: 5px solid $roofLight;
+  }
+}
+.house {
+  position: absolute;
+  width: 80px;
+  height: 60px;
+  background-color: $mill;
+  top: 164px;
+  left: 152px;
+  border-top: 20px solid $roof;
+  &:after {
+    content: "";
+    position: absolute;
+    background-color: $wheel;
+    width: 20px;
+    height: 30px;
+    bottom: 0;
+    left: 30px;
+    border-left: 5px solid $roofLight;
+  }
+}
+.bush {
+  position: relative;
+  top: 203px;
+  left: -60px;
+}
+.bush li {
+  float: left;
+  list-style: none;
+  background-color: $roof;
+  width: 40px;
+  height: 25px;
+  border-radius: 100px 100px 0 0
+}
+
+.bush2 {
+  top: 178px;
+  left: 160px;
+}
+
+.tree {
+  position: absolute;
+  left: -50px;
+  top: 120px;
+  li {
+    list-style: none;
+    background-color: $wheel;
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    margin-bottom: -15px;
+  }
+  &:after {
+    content: "";
+    position: absolute;
+    background-color: $roofLight;
+    width: 3px;
+    height: 80px;
+    top: 25px;
+    right: 21px;
+  }
+}
+
+.cloud {
+  position: absolute;
+  top: 40px;
+  left: -100px;
+  background-color: #fff;
+  height: 20px;
+  width: 40px;
+  z-index: 1000;
+  border-radius: 40px 40px 0 0;
+  opacity: 0.7;
+  animation: clouds 14s linear alternate infinite;
+  &:before {
+    content: "";
+    position: absolute;
+    background-color: #fff;
+    height: 30px;
+    width: 60px;
+    border-radius: 60px 60px 0 0;
+    bottom: 0;
+    right: 20px;
+  }
+}
+
+.cloud2{
+  height: 40px;
+  width: 80px;
+  top: -20px;
+  z-index: 1;
+  animation: clouds 24s linear alternate-reverse infinite;
+  &:before{
+    content: "";
+    position: absolute;
+    background-color: #fff;
+    height: 30px;
+    width: 60px;
+    border-radius: 60px 60px 0 0;
+    bottom: 0;
+    right: 40px;
+  }
+}
+
+// animations
+@keyframes spin {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes clouds {
+  100% {
+    transform: translateX(340px);
+  }
+}
