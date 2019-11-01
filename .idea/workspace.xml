@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="837c18eb-04f7-43ff-8d7a-8df7bdf417ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/Flexbox/弹性盒模型01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/Flexbox/弹性盒模型02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/Flexbox/弹性盒模型03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/border/border_radius.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/border/border_radius四分之一园.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/border/border_radius椭圆测试.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/box/box_shadow测试.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/relative/定位测试.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/relative/定位测试01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/relative/相对定位02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/relative/相对定位03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-13/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-13/ch13-V-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-13/ch13-V-02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-13/ch13-V-03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-13/ch13-V-04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-13/ch13-V-05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-13/ch13-V-06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-13/ch13-V-07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-13/ch13-V-08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-13/ch13-V-09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-13/模块" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-course-2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-course-2/drawing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-course-2/基本的绘制函数" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-course-3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-course-3/ch3-c-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-course-3/动画" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-course-4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-course-4/ch4-c-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-course-4/pygame屏幕绘制机制" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-course-4/搜狗截图.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/CSS3/relative/相对定位笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/CSS3/relative/相对定位笔记.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/chapter-V-12/模块" beforeDir="false" afterPath="$PROJECT_DIR$/python/chapter-V-12/模块" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/chapter-V-12_1/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/chapter-V-12_1/test.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -63,13 +28,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/front-end/CSS3/Flexbox/弹性盒模型03.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -172,20 +131,7 @@
             <path>
               <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
               <item name="4000hours" type="462c0819:PsiDirectoryNode" />
-              <item name="front-end" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
-              <item name="4000hours" type="462c0819:PsiDirectoryNode" />
-              <item name="front-end" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
-              <item name="4000hours" type="462c0819:PsiDirectoryNode" />
-              <item name="front-end" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS3" type="462c0819:PsiDirectoryNode" />
-              <item name="Flexbox" type="462c0819:PsiDirectoryNode" />
+              <item name="css-demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -232,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ch3-c-01">
+  <component name="RunManager">
     <configuration name="ch13-V-08" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="4000hours" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -444,6 +390,8 @@
       <workItem from="1572525821040" duration="8807000" />
       <workItem from="1572599229003" duration="2931000" />
       <workItem from="1572602681807" duration="701000" />
+      <workItem from="1572615941856" duration="808000" />
+      <workItem from="1572617580468" duration="629000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1560839191392</created>
@@ -613,11 +561,18 @@
       <option name="project" value="LOCAL" />
       <updated>1571558112577</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="11.01更新">
+      <created>1572615996387</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1572615996387</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="250987000" />
+    <option name="totallyTimeSpent" value="252424000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -629,9 +584,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="699" height="744" extended-state="0" />
+    <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21331316" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21279761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -698,7 +653,8 @@
     <MESSAGE value="10.7更新" />
     <MESSAGE value="10.17更新" />
     <MESSAGE value="10.20更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.20更新" />
+    <MESSAGE value="11.01更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.01更新" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/python/chapter-V-10/ch10-V-08.py">
