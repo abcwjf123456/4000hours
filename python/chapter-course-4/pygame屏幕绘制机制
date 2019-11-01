@@ -1,0 +1,17 @@
+ch4-c-01为小球运动游戏也是前两章的总结
+屏幕绘制靠pygame.display
+
+屏幕尺寸和模式
+pygame.display.set_mode() 设置相关屏幕模式
+pygame.display.Info() 生成屏幕相关信息
+
+窗口标题和图标
+pygame.display.set_caption() 设置标题信息
+pygame.display.set_icon() 设置图标信息
+pygame.display.get_caption() 获得图标
+
+窗口感知和刷新
+pygame.display.get_active()
+pygame.display.flip()
+pygame.display.update
+

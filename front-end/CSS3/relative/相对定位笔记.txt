@@ -3,3 +3,5 @@
 2.在父元素使用relative下子元素使用absolute会将子元素关进小黑屋限制定位，层级，overflow.
 3.只使用relative下是相对自身定位的.
 4.尽量不要使用relative因为会出现层叠bug，如果使用可以单独提取一个div.
+5.position:relative不脱离文档流absoute脱离文档流,fixed脱离文档流.
+6.层及z-index
