@@ -3,3 +3,8 @@
 3.random模块
 4.os模块
 5.sys模块
+6.json模块
+ 1.json模块dumps会将所有变量都转换成双引好字符串""
+7.pickle模块
+ 1.pickle模块与json模块用法一样只不过转换的表示字符串而是bype（字节）
+8.xml模块
