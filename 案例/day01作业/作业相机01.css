@@ -1,3 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 body {
     background-color: #282e3a;
     min-width: 800px;
@@ -10,10 +15,11 @@ body {
     height: 265px;
     background-color: #ecf0f1;
     border-radius: 42px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin: -132px 0 0 -132px;
+    position: relative;
+    margin: 30px auto ;
+    /*top: 50%;*/
+    /*left: 50%;*/
+    /*margin: 132px 0 0 132px;*/
 }
 
 .flat-anim:before {
@@ -59,6 +65,7 @@ body {
     height: 30px;
     display: block;
     margin: 14px auto 0 auto;
+    /*position: absolute;*/
 }
 
 .bottom:after {
@@ -72,12 +79,12 @@ body {
     background-color: #ecf0f1;
     /*border-top:16px solid #c3d1dd;*/
     /*border-bottom:14px solid #db640e;*/
-    -webkit-box-shadow: 0 14px 0 0 #db640e,
-    0 -16px 0 0 #c3d1dd;
-    -moz-box-shadow: 0 14px 0 0 #db640e,
-    0 -16px 0 0 #c3d1dd;
-    box-shadow: 0 14px 0 0 #db640e,
-    0 -16px 0 0 #c3d1dd;
+    /*-webkit-box-shadow: 0 14px 0 0 #db640e,*/
+    /*0 -16px 0 0 #c3d1dd;*/
+    /*-moz-box-shadow: 0 14px 0 0 #db640e,*/
+    /*0 -16px 0 0 #c3d1dd;*/
+    /*box-shadow: 0 14px 0 0 #db640e,*/
+    /*0 -16px 0 0 #c3d1dd;*/
 }
 
 .eye {
@@ -86,7 +93,8 @@ body {
     border-radius: 37px;
     background-color: #243e6e;
     display: block;
-    margin: 60px auto 0;
+    /*position: absolute;*/
+    left: 40%;
     z-index: 20;
     position: relative;
     -webkit-box-shadow: 0 0 0 22px #3e5489,
@@ -100,7 +108,7 @@ body {
     background-color: #a3bfd5;
     width: 30px;
     height: 30px;
-    border-radius: 30px;
+    border-radius: 100%;
     position: absolute;
     top: -16px;
     left: -16px;
