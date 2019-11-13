@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>动态伪类选择器</title>
+    <style>
+        text{
+            font-size: 30px;
+            display: block;
+        }
+        text:nth-child(1){
+            color: red;
+            font-size: 40px;
+        }
+        .down>a{
+            text-decoration: none;
+            display: inline-block;
+            width: 90px;
+            height: 40px;
+            background: red;
+            border-radius: 20px;
+            text-align: center;
+            line-height: 34px;
+            color: #000;
+        }
+        /*.down>a:hover{*/
+        /*    text-shadow: 0 -1px 0 rgba(0,0,0,0.25);*/
+        /*}*/
+        /*.down>a:active{*/
+        /*    box-shadow: inset 0 2px 4px rgba(0,0,0,0.15);*/
+        /*    background: #000;*/
+        /*}*/
+        .btn:focus{
+            /*box-shadow: inset 0 2px 4px rgba(0,0,0,0.15);*/
+            outline: 2px solid #000;
+        }
+    </style>
+</head>
+<body>
+<!--
+
+E:link 链接伪类选择器
+
+E:visited 链接伪类选择器
+
+E:active  用户行为伪类选择器
+
+E:hover 用户行为伪类选择器
+
+E:focus 用户行为伪类选择器
+
+-->
+<text>案例请看代码</text>
+<text>E:link 链接伪类选择器</text>
+<text>E:visited 链接伪类选择器</text>
+<text>E:active  用户行为伪类选择器</text>
+<text>E:hover 用户行为伪类选择器</text>
+<text>E:focus 用户行为伪类选择器</text>
+<div class="down">
+    <a href="https://github.com/abcwjf123456/4000hours.git" class="btn">我的GitHub</a>
+</div>
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>层次选择器</title>
+    <style>
+        text{
+            font-size: 30px;
+            display: block;
+        }
+        text:nth-child(1){
+            color: red;
+            font-size: 40px;
+        }
+
+        div{
+            border: 2px solid #ccc;
+        }
+    /*    相邻选择器·*/
+    /*    .active + div{*/
+    /*        background: red;*/
+    /*    }*/
+    /*    通用选择器*/
+        .active ~div{
+            background: green;
+        }
+    </style>
+</head>
+<body>
+<!--
+E F 后代选择器
+E>F 子选择器
+E+F 相邻选择器
+E ~F 通用选择器
+
+-->
+<text>案例请看代码</text>
+<text>E F 后代选择器</text>
+<text>E>F 子选择器</text>
+<text>E+F 相邻选择器</text>
+<text>E ~F 通用选择器</text>
+<div class="active">1</div>
+<div>2</div>
+<div>3
+    <div>4</div>
+    <div>5</div>
+</div>
+<div>6
+    <div>7
+        <div>8
+        <div>9</div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
