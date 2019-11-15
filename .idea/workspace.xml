@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="837c18eb-04f7-43ff-8d7a-8df7bdf417ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/选择器/UI元素状态伪类选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/选择器/伪元素.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/选择器/动态伪类选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/选择器/否定伪类选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/选择器/基本选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/选择器/层次选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/选择器/属性选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/选择器/目标伪类选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/选择器/结构伪类选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/选择器/结构伪类选择器案例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/CSS3/选择器/语言伪类选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/CSS3/变形/倾斜.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/CSS3/渐变/中间点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/CSS3/渐变/径向渐变.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/CSS3/渐变/标志位.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/CSS3/渐变/渐变笔记" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/CSS3/渐变/线性渐变.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-V-15/ch15-V-01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/案例/day01作业/相对定位" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/CSS3/relative/相对定位" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,8 +42,8 @@
       <list>
         <option value="JavaScript File" />
         <option value="SCSS File" />
-        <option value="Python Script" />
         <option value="CSS File" />
+        <option value="Python Script" />
         <option value="HTML File" />
       </list>
     </option>
@@ -65,15 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/案例/day01/day-01.html" />
-        <option value="$PROJECT_DIR$/案例/day01/day-02.html" />
-        <option value="$PROJECT_DIR$/案例/day01/day-03.html" />
-        <option value="$PROJECT_DIR$/案例/day01/day-04.html" />
-        <option value="$PROJECT_DIR$/css-demo/作业02/sty.css" />
-        <option value="$PROJECT_DIR$/案例/day01/day-05.html" />
-        <option value="$PROJECT_DIR$/案例/day01/day-06.html" />
-        <option value="$PROJECT_DIR$/python/chapter-V-13/ch13-V-10.py" />
-        <option value="$PROJECT_DIR$/python/chapter-V-13/ch13-V-11.py" />
         <option value="$PROJECT_DIR$/python/chapter-V-13/ch13-V-12.py" />
         <option value="$PROJECT_DIR$/python/chapter-V-13/ch13-V-13.py" />
         <option value="$PROJECT_DIR$/python/chapter-V-13/模块" />
@@ -116,6 +102,15 @@
         <option value="$PROJECT_DIR$/front-end/CSS3/选择器/否定伪类选择器.html" />
         <option value="$PROJECT_DIR$/front-end/CSS3/选择器/伪元素.html" />
         <option value="$PROJECT_DIR$/front-end/CSS3/选择器/属性选择器.html" />
+        <option value="$PROJECT_DIR$/front-end/CSS3/渐变/渐变笔记" />
+        <option value="$PROJECT_DIR$/python/chapter-V-15/ch15-V-01.py" />
+        <option value="$PROJECT_DIR$/front-end/CSS3/渐变/线性渐变01.html" />
+        <option value="$PROJECT_DIR$/front-end/CSS3/渐变/线性渐变.html" />
+        <option value="$PROJECT_DIR$/front-end/CSS3/渐变/径向渐变.html" />
+        <option value="$PROJECT_DIR$/front-end/CSS3/渐变/标志位.html" />
+        <option value="$PROJECT_DIR$/front-end/CSS3/渐变/中间点.html" />
+        <option value="$PROJECT_DIR$/front-end/CSS3/变形/动感表单.html" />
+        <option value="$PROJECT_DIR$/front-end/CSS3/变形/倾斜.html" />
       </list>
     </option>
   </component>
@@ -134,6 +129,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,13 +153,12 @@
               <item name="4000hours" type="462c0819:PsiDirectoryNode" />
               <item name="front-end" type="462c0819:PsiDirectoryNode" />
               <item name="CSS3" type="462c0819:PsiDirectoryNode" />
-              <item name="选择器" type="462c0819:PsiDirectoryNode" />
+              <item name="变形" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,28 +200,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ch14-V-06" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="4000hours" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-V-14" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-V-14/ch14-V-06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="ch14-V-07" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="4000hours" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -307,6 +280,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-V-14/ch14-V-10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ch15-V-01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="4000hours" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-V-15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-V-15/ch15-V-01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -430,7 +425,9 @@
       <workItem from="1573368081815" duration="6416000" />
       <workItem from="1573384584197" duration="6452000" />
       <workItem from="1573560700703" duration="2704000" />
-      <workItem from="1573622753779" duration="2631000" />
+      <workItem from="1573622753779" duration="3875000" />
+      <workItem from="1573626801411" duration="1664000" />
+      <workItem from="1573647133027" duration="2795000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1560839191392</created>
@@ -642,11 +639,18 @@
       <option name="project" value="LOCAL" />
       <updated>1573385015044</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="11.13更新">
+      <created>1573625406150</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1573625406150</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="309047000" />
+    <option name="totallyTimeSpent" value="314750000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -660,7 +664,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22619048" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22991072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -730,42 +734,10 @@
     <MESSAGE value="11.01更新" />
     <MESSAGE value="11.03更新" />
     <MESSAGE value="11.10更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.10更新" />
+    <MESSAGE value="11.13更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.13更新" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/案例/day01/day-05.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/案例/day01/day-06.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-          <folding>
-            <marker date="1572684978528" expanded="true" signature="380:687" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-13/ch13-V-09.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-13/fg" />
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-13/ch13-V-10.py" />
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-13/ch13-V-11.py" />
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-13/hh" />
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-13/ch13-V-12.py" />
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-13/ch13-V-13.py" />
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-13/模块">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/chapter-V-13/ch13-V-14.py" />
     <entry file="file://$PROJECT_DIR$/python/chapter-V-14.py" />
     <entry file="file://$PROJECT_DIR$/python/chapter-V-14/ch14-V-02.py" />
@@ -971,6 +943,64 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/CSS3/渐变/渐变笔记">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-15/jj.log" />
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-15/ch15-V-01.py" />
+    <entry file="file://$PROJECT_DIR$/front-end/CSS3/渐变/线性渐变01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/CSS3/渐变/径向渐变.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/CSS3/渐变/线性渐变.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/CSS3/渐变/标志位.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/CSS3/渐变/中间点.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/CSS3/变形/动感表单.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/CSS3/变形/倾斜.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
         </state>
       </provider>
     </entry>
