@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<!--    参数不会叠加 参数有顺序 没有3d倾斜 3d定点为远离眼睛的距离-->
+    <style>
+        .dv01{
+            width: 400px;
+            height: 400px;
+            border: 2px solid #000;
+            transform-style: preserve-3d;
+            /*transform: perspective(900px) rotateY(45deg);*/
+            margin: 50px auto;
+            position: relative;
+
+        }
+        .dv01 div{
+            width: 200px;
+            height: 200px;
+            position: absolute;
+            top: 25%;
+            left: 25%;
+            /*margin-right: 50px;*/
+            /*margin-top: 50px;*/
+        }
+        /*.dv01 div:nth-child(1){*/
+        /*    background: gold;*/
+        /*    transform: translateZ(0px) scaleZ(1);*/
+        /*    transition: 2s;*/
+
+        /*}*/
+        .dv01 div:nth-child(2){
+            background: green;
+            /*transform: translateZ(0px) scaleZ(1);*/
+            transition: 2s;
+        }
+        .dv01 div:nth-child(2):hover{
+            transform: perspective(900px) rotate3d(10,0,1,45deg);
+            transform-origin: top right -700px;
+        /*    3d为矢量值*/
+        }
+        /*.dv01 div:nth-child(2):hover{*/
+        /*    transform: translateZ(300px) scale3d(.4,.5,.6) perspective(900px) rotateX(45deg);*/
+        /*}*/
+    </style>
+</head>
+<body>
+<div class="dv01">
+    <div></div>
+    <div></div>
+</div>
+</body>
+</html>
