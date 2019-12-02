@@ -1,0 +1,33 @@
+flex-direction 适用于伸缩容器，也就是伸缩项目的父元素 创建主主轴
+row
+row-reverse ltr排版
+column
+column-reverse
+
+flex-wrap 适用于伸缩容器，也就是伸缩项目的父元素 定义伸缩容器里是单行还是多行显示，侧轴的方向决定了新行堆放的方向
+nowrap
+wrap
+wrap-reverse
+
+flex-flow 上面两值的缩写
+
+justify-content 适用于伸缩容器，也就是伸缩项目的父元素 主要用来定义伸缩项目沿着主轴线的对齐方式
+flex-start
+flex-end
+center
+space-between
+space-around
+space-evenly
+
+
+align-items 伸缩项目行在侧轴上的对齐方向与justify-content呼应
+flex-start
+flex-end
+center
+baseline 根据基线
+stretch默认 拉伸
+align-self 伸缩项目自身在侧轴上的对齐方向
+
+align-content
+
+flex-grow

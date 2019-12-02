@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: #561f55;
+        }
+
+        a {
+            width: 100px;
+            height: 50px;
+            display: block;
+
+            color: blue;
+            left: 50%;
+            top: 50%;
+            position: absolute;
+            text-align: center;
+            line-height: 50px;
+            text-decoration: none;
+            text-transform: capitalize;
+            font-family: "Open Sans", sans-serif;
+            overflow: hidden;
+            box-sizing: border-box;
+            background: red;
+        }
+
+        a span:nth-child(1) {
+            position: absolute;
+            width: 100%;
+            display: block;
+            height: 2px;
+            background: gold;
+            top: 0px;
+            animation: sp1 2s ease-out infinite 1s;
+            /*transform: translate(100px);*/
+        }
+        @keyframes sp1 {
+            0%{transform: translate(-100px,0)}
+            100%{transform: translate(100px,0)}
+        }
+
+        a span:nth-child(2) {
+            position: absolute;
+            width: 2px;
+            display: block;
+            height: 100%;
+            background: gold;
+            right: 0;
+            top: 0;
+            animation: sp2 2s ease-out infinite 1s;
+
+        }
+        @keyframes sp2 {
+            0%{transform: translate(0,-100px)}
+            100%{transform: translate(0px,100px)}
+        }
+
+
+        a span:nth-child(3) {
+            position: absolute;
+            width: 100%;
+            display: block;
+            height: 2px;
+            background: gold;
+            bottom: 0;
+            animation: sp3 2s ease-out infinite 1s;
+        }
+        @keyframes sp3 {
+            0%{transform: translate(100px,0)}
+            100%{transform: translate(-100px,0px)}
+        }
+
+        a span:nth-child(4) {
+            position: absolute;
+            width: 2px;
+            display: block;
+            height: 100%;
+            background: gold;
+            top: 0px;
+            left: 0;
+            animation: sp4 2s ease-out infinite 1s;
+        }
+        @keyframes sp4 {
+            0%{transform: translate(0,100px)}
+            100%{transform: translate(0,-100px)}
+        }
+
+    </style>
+</head>
+<body>
+
+<a href="">button
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+</a>
+
+
+</body>
+</html>

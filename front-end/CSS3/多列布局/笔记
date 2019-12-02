@@ -1,0 +1,9 @@
+row-gap 行留白
+column-gap 列留白
+gap 简写
+
+
+根据编号放置元素 grid-column-start: 2;
+                grid-row-start: 2;
+                grid-row-end: 2;
+                grid-column-end: 2;

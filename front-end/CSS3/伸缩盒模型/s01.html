@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .gg{
+            width: 300px;
+            height: 600px;
+            border: 2px solid #000;
+            box-sizing: border-box;
+            display: flex;
+            /*flex-direction: row;*/
+            /*flex-wrap: wrap;*/
+            /*flex-flow: row wrap;*/
+            /*justify-content: space-evenly;*/
+            /*align-items: baseline;*/
+            /*align-content: center;*/
+
+
+        }
+        .gg div{
+            width: 100px;
+            height: 100px;
+            /*display: flex;*/
+
+        }
+        .gg div:nth-child(1){
+            background: red;
+            /*order: 5;*/
+            /*align-self: stretch;*/
+            /*align-content: flex-end;*/
+            /*flex-grow: 1;*/
+            /*flex-shrink: 4;*/
+            /*flex-basis: 400px;*/
+            flex: 0 3 10px;
+        }
+        .gg div:nth-child(2){
+            background: green;
+            position: relative;
+            /*flex-grow: 109;*/
+            /*flex-shrink: 3;*/
+            flex: 0 3 50px;
+            /*flex-basis: 30px;*/
+            /*flex: 0 3 100px;*/
+        }
+        .gg div:nth-child(3){
+            background: blue;
+            /*order: -1;*/
+            /*flex-shrink: 3;*/
+            /*flex-grow: 5;*/
+        }
+        .gg div:nth-child(4){
+            background: yellow;
+        }
+        .gg div:nth-child(5){
+            background: yellow;
+        }
+        .gg div:nth-child(6){
+            background: yellow;
+        }
+        .gg div:nth-child(7){
+            background: yellow;
+        }
+        .gg div:nth-child(8){
+            background: yellow;
+        }
+        .gg div:nth-child(9){
+            background: yellow;
+            /*align-self: stretch;*/
+        }
+    </style>
+</head>
+<body>
+<div class="gg">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+<!--    <div>5</div>-->
+<!--    <div>6</div>-->
+<!--    <div>7</div>-->
+<!--    <div>8</div>-->
+<!--    <div>9</div>-->
+</div>
+</body>
+</html>
