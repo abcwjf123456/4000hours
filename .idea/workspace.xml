@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="837c18eb-04f7-43ff-8d7a-8df7bdf417ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-22/ch22-V-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-22/ch22-V-02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-22/ch22-V-03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/chapter-V-22/ch22-V-04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-V-22/ch22-V-05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-V-22/ch22-V-06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/chapter-V-22/ch22-V-07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -61,9 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/front-end/CSS3/选择器/基本选择器.html" />
-        <option value="$PROJECT_DIR$/front-end/CSS3/选择器/动态伪类选择器.html" />
-        <option value="$PROJECT_DIR$/front-end/CSS3/选择器/目标伪选择器.html" />
         <option value="$PROJECT_DIR$/front-end/CSS3/选择器/目标伪类选择器.html" />
         <option value="$PROJECT_DIR$/front-end/CSS3/选择器/语言伪类选择器.html" />
         <option value="$PROJECT_DIR$/front-end/CSS3/选择器/UI元素状态伪类选择器.html" />
@@ -112,6 +108,9 @@
         <option value="$PROJECT_DIR$/python/chapter-V-22/ch22-V-02.py" />
         <option value="$PROJECT_DIR$/python/chapter-V-22/ch22-V-03.py" />
         <option value="$PROJECT_DIR$/python/chapter-V-22/ch22-V-04.py" />
+        <option value="$PROJECT_DIR$/python/chapter-V-22/ch22-V-05.py" />
+        <option value="$PROJECT_DIR$/python/chapter-V-22/ch22-V-06.py" />
+        <option value="$PROJECT_DIR$/python/chapter-V-22/ch22-V-07.py" />
       </list>
     </option>
   </component>
@@ -122,8 +121,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="32" />
+    <option name="x" value="482" />
+    <option name="y" value="64" />
     <option name="width" value="699" />
     <option name="height" value="744" />
   </component>
@@ -135,36 +134,7 @@
       <showMembers ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
-              <item name="4000hours" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
-              <item name="4000hours" type="462c0819:PsiDirectoryNode" />
-              <item name="css-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
-              <item name="4000hours" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="4000hours" type="b2602c69:ProjectViewProjectNode" />
-              <item name="4000hours" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter-V-22" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -204,51 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ch22-V-04">
-    <configuration name="ch15-V-01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="4000hours" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-V-15" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-V-15/ch15-V-01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ch22-V-01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="4000hours" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-V-22" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-V-22/ch22-V-01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ch22-V-02">
     <configuration name="ch22-V-02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="4000hours" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -315,14 +241,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.ch22-V-04" />
-        <item itemvalue="Python.ch22-V-03" />
-        <item itemvalue="Python.ch22-V-02" />
-        <item itemvalue="Python.ch22-V-01" />
-      </list>
-    </recent_temporary>
+    <configuration name="ch22-V-05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="4000hours" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-V-22" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-V-22/ch22-V-05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ch22-V-06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="4000hours" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/chapter-V-22" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/chapter-V-22/ch22-V-06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
@@ -459,7 +421,12 @@
       <workItem from="1575032204832" duration="2253000" />
       <workItem from="1575093189816" duration="613000" />
       <workItem from="1575263745296" duration="404000" />
-      <workItem from="1575806058909" duration="6447000" />
+      <workItem from="1575806058909" duration="6489000" />
+      <workItem from="1575979195674" duration="3925000" />
+      <workItem from="1575984664389" duration="16000" />
+      <workItem from="1575984755916" duration="70000" />
+      <workItem from="1576032825792" duration="75000" />
+      <workItem from="1576033224610" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1560839191392</created>
@@ -699,11 +666,18 @@
       <option name="project" value="LOCAL" />
       <updated>1575263790045</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="12.08更新">
+      <created>1575813969470</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1575813969470</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="372985000" />
+    <option name="totallyTimeSpent" value="377144000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -715,14 +689,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
+    <frame x="482" y="64" width="699" height="744" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.46822995" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48865354" visible="true" weight="0.30983606" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4924357" visible="true" weight="0.37704918" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -730,7 +704,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49627978" weight="0.3295082" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074404" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5075643" side_tool="true" weight="0.37704918" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295082" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.3295082" />
@@ -791,36 +765,10 @@
     <MESSAGE value="11.15更新" />
     <MESSAGE value="11.17更新" />
     <MESSAGE value="12.01更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="12.01更新" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/4000hours$ch22_V_03.coverage" NAME="ch22-V-03 Coverage Results" MODIFIED="1575811746354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-22" />
-    <SUITE FILE_PATH="coverage/4000hours$ch22_V_02.coverage" NAME="ch22-V-02 Coverage Results" MODIFIED="1575809721075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-22" />
-    <SUITE FILE_PATH="coverage/4000hours$ch22_V_04.coverage" NAME="ch22-V-04 Coverage Results" MODIFIED="1575813521432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-22" />
-    <SUITE FILE_PATH="coverage/4000hours$ch22_V_01.coverage" NAME="ch22-V-01 Coverage Results" MODIFIED="1575807930042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/chapter-V-22" />
+    <MESSAGE value="12.08更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="12.08更新" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/front-end/CSS3/选择器/UI元素状态伪类选择器.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/CSS3/选择器/语言伪类选择器.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/CSS3/选择器/结构伪类选择器案例.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="52" column="11" lean-forward="true" selection-start-line="50" selection-start-column="10" selection-end-line="52" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/front-end/CSS3/选择器/结构伪类选择器.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1091,34 +1039,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-22/ch22-V-01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="11" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-22/ch22-V-02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-22/ch22-V-03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/chapter-V-22/ch22-V-04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-22/ch22-V-01.py" />
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-22/ch22-V-02.py" />
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-22/ch22-V-03.py" />
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-22/ch22-V-04.py" />
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-22/ch22-V-05.py" />
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-22/ch22-V-06.py" />
+    <entry file="file://$PROJECT_DIR$/python/chapter-V-22/ch22-V-07.py" />
   </component>
   <component name="masterDetails">
     <states>
